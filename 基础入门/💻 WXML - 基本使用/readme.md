@@ -1,1 +1,0 @@
-[gitee 仓库地址](https://gitee.com/huyouda/miniprogram-wechat)
