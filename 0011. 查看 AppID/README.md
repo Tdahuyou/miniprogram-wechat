@@ -1,4 +1,4 @@
-# 0011. 查看 AppID
+# [0011. 查看 AppID](https://github.com/Tdahuyou/miniprogram-wechat/tree/main/0011.%20%E6%9F%A5%E7%9C%8B%20AppID)
 
 - 📝 summary
   - 介绍了如何在微信公众平台上查找自己的小程序 AppID，该 ID 在创建新的小程序项目时必需填写。
