@@ -1,11 +1,21 @@
 # [0001. 创建你的第一个微信小程序](https://github.com/Tdahuyou/miniprogram-wechat/tree/main/0001.%20%E5%88%9B%E5%BB%BA%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
-- 📝 summary
+
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - 创建小程序](#3--notes---创建小程序)
+- [4. 📒 notes - 认识目录结构](#4--notes---认识目录结构)
+- [5. 💻 demo](#5--demo)
+- [6. 🤖 AI](#6--ai)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
   - 介绍了如何使用微信开发者工具创建一个基于 TypeScript 和 Sass 的微信小程序，并简要概述了新创建项目的基本目录结构和文件作用。
   - 强调了对于初学者来说，即使不熟悉 TypeScript 对开发影响不大，因为最终运行的是 JavaScript 代码；同时说明了各个关键配置文件如 `app.json`、`app.ts` 和页面相关文件的作用。
 
-## 🔗 links
-## 📒 notes - 创建小程序
+## 2. 🔗 links
+## 3. 📒 notes - 创建小程序
 
 - 学会自己创建一个微信小程序，并对刚创建好的小程序的目录文件有个初步的认识。
 - TS 可选可不选，微信小程序对于 TS 的支持不是特别友好。
@@ -35,7 +45,7 @@
 - 一切配置填写完毕后，点击右下角的【确定】按钮，即可创建你的第一个微信小程序。
   - ![](md-imgs/2024-10-23-13-40-36.png)
 
-## 📒 notes - 认识目录结构
+## 4. 📒 notes - 认识目录结构
 
 - 使用微信开发者工具打开这个小程序，可以看到有以下文件。
   - ![](md-imgs/2024-10-23-14-50-04.png)
@@ -110,5 +120,5 @@
   - 其中 tsconfig.json 和 typings 是 TS 相关的内容，主要存放一些编译信息和类型信息。
   - 这些信息并不会对程序最终的运行逻辑产生影响。
 
-## 💻 demo
-## 🤖 AI
+## 5. 💻 demo
+## 6. 🤖 AI
