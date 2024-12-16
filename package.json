@@ -1,8 +1,14 @@
 {
-    "scripts": {
-        "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=miniprogram-wechat",
-        "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=miniprogram-wechat",
-        "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=miniprogram-wechat",
-        "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=miniprogram-wechat"
-    }
+  "scripts": {
+    "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=miniprogram-wechat",
+    "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=miniprogram-wechat",
+    "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=miniprogram-wechat",
+    "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=miniprogram-wechat"
+  },
+  "tnotesConfig": {
+    "ignoreDirs": [
+      ".vscode",
+      ".git"
+    ]
+  }
 }
